@@ -1,4 +1,4 @@
-List of AI Tools that I use on a daily basis:
+List of AI Tools that I know or have used:
 
 - [Scribe](https://scribehow.com/scribe-ai) -  AI that documents your processes for you
 - [Warp](https://www.warp.dev/) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
