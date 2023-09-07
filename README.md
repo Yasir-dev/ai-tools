@@ -5,4 +5,5 @@ List of AI Tools that I use on a daily basis:
 - [Guidde](https://www.guidde.com/) - guidde is the generative AI platform for business that helps your team create video documentation 11x faster
 - [tldrthis](https://tldrthis.com/) - TLDR This helps you summarize any piece of text into concise, easy to digest content so you can free yourself from information overload.
 - [Speechify](https://speechify.com/) - Text-to-speech
-- [](https://quizify.com/) - Learn smarter powered by AI
+- [quizify](https://quizify.com/) - Learn smarter powered by AI
+- [kombai](https://kombai.com/) - Design to code
