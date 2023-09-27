@@ -7,3 +7,4 @@ List of AI Tools that I know or have used:
 - [Speechify](https://speechify.com/) - Text-to-speech
 - [quizify](https://quizify.com/) - Learn smarter powered by AI
 - [kombai](https://kombai.com/) - Design to code
+- [shortwave](https://www.shortwave.com/) - AI email app
